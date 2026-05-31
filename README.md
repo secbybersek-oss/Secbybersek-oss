@@ -1,16 +1,12 @@
-## Hi there 👋
+# ─── ¡BIENVENIDO A MI TERMINAL! ───
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=INITIALIZING+SESSION...;ACCESS+GRANTED...;WELCOME+TO+MY+PROFILE;" alt="Typing SVG" />
+</p>
 
-<!--
-**secbybersek-oss/Secbybersek-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "status": "Active",
+  "role": "Cybersecurity Specialist & Penthinker",
+  "location": "Lima, Peru",
+  "focus": ["Web App Pentesting", "Mobile & Cloud Security", "Industrial IoT"]
+}
