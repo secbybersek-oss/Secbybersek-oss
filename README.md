@@ -1,67 +1,44 @@
-# ─── ⚡ SECURE SYSTEM INITIALIZED ───
-
-<table align="center" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h1>Hi there, I'm a Cybersecurity Analyst & Pentester 👋</h1>
-      <p><i>Apasionado por la seguridad ofensiva, la automatización y el análisis de vulnerabilidades. Dedicado a romper entornos controlados para construir sistemas impenetrables.</i></p>
-      
-      <h3>📂 Current Status</h3>
-      <ul>
-        <li>💻 <b>Target:</b> Web Application Penetration Testing (OWASP Top 10) & Security Automation.</li>
-        <li>🛠️ <b>Labs & Research:</b> Desarrollando entornos controlados de explotación y flujos avanzados de Hardening.</li>
-        <li>🎯 <b>Future Goals:</b> Especialización profunda en Mobile App Auditing y Seguridad en Entornos Cloud.</li>
-        <li>🤖 <b>OS Environment:</b> Kali Linux optimizado con bspwm, Polybar y flujos de automatización en Python.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Tarjeta dinámica de lenguajes integrándose a la derecha al estilo de la imagen de tu amigo -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Cyber Arsenal & Tech Stack
-
-### 💀 Offensive Security
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-007ACC?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-3F51B5?style=for-the-badge&logo=rapid7&logoColor=white" />
-</p>
-
-### ⚙️ DevSecOps & Automation
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&width=200&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📈 System Metrics & Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9&icon_color=00FF66" alt="Estadísticas Generales" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUÍ&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="Racha de Commits" width="48%" />
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+  </picture>
 </p>
-
----
-
-## 🎧 Hacking Soundtrack (Spotify Live)
-<!-- Widget dinámico idéntico en funcionalidad al de tu amigo pero integrado estéticamente -->
-<p align="left">
-  <a href="https://github.com/novatustech/github-readme-spotify">
-    <img src="https://novatustech-spotify.vercel.app/api/spotify?background_color=0d1117&text_color=c9d1d9&title_color=00ff66&bar_color=00ff66" alt="Spotify Playing" width="400px" />
-  </a>
+<h1 align="center">Hi 👋, I'm Secby</h1>
+<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=secbybersek-oss&label=Profile%20views&color=0e75b6&style=flat" alt="secbybersek-oss" /> 
 </p>
-
----
-<p align="center">
-  <sub>🛡️ "Security is not a product, it's a process." | Encrypt everything.</sub>
-</p>
+<div>
+<img align="right" width="400" alt="Mi GIF" src="https://raw.githubusercontent.com/secbybersek-oss/secbybersek-oss-bersek/main/Aestheticentrywaymakeoverideasforyournextinspirationboardusingpracticalinspirationthatstillfeelshighlyaesthetic-Pin-617837642703324166-ezgif.com-video-to-gif-converter.gif"/>
+<h2> / about me /</h2>
+  
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+  
+<h2> / current skills / </h2>
+  
+- <h4> languages </h4>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  
+  - <h5> currently learning </h5>
+    <img src = "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt = "c#" />
+    <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt = "java" />
+  
+- <h4> frameworks & libraries </h4>
+  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  
+- <h4> designing tools </h4>
+  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
+  <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
+  <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  
+  </br></br>
+  
+</div>
